@@ -6,7 +6,6 @@
 <!--html-->
 <!DOCTYPE html>
 <html>
-<h2> How do you make CSS Styles work on github????</h2>
 <!--LINK TO CSS-->
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 <!--HTML Starts-->
