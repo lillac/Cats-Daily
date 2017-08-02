@@ -1,33 +1,15 @@
 <!DOCTYPE html>
 <html>
-<h2> How do you make CSS Styles work on github????</h2>
-<!--CSS Style-->
-<style>
-h1 {
-	  font-family: courier;
-	  border: 10px solid #2f4f4f;
-      text-align: center;
-      padding: 20px;
-	  }
-body {
-	  background-color: #d3d3d3;
-     }
-header {
-	    background-color: white;
-        }
-hr {
-	color: #2f4f4f;
-   }
-</style>
+<h2>Preview of Code.</h2>
+<i>Bugs fixed by lillac.</i>
 <!--HTML Starts-->
 <header>
-	<title>Cats Daily |n＾ω＾|η</title>
     <h1>Cats Daily |n＾ω＾|η</h1>
     </header>
     <body>
     <hr noshade="100" size="5" color="#2f4f4f" width="100%">
     <i>31/7/17</i>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Breaded_Cat.jpg" width="300" align="right" alt="Cat with bread on head">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Breaded_Cat.jpg/1024px-Breaded_Cat.jpg" width="300" align="right">
 <p>
 This cat has a piece of bread on its head, and all of the other cats are sooooo jealous!<br><br>
 We asked this cat what it felt like to be internet famous, and he replied with, and I quote 
