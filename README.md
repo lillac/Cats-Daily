@@ -3,20 +3,14 @@
 <h2>Preview of Code.</h2>
 <i>(deleted css from readme(it's not supported here) and fixed img source link (you linked to google images whereas you needed to link to just the image itself.)) Changed this to master branch as it is bug-free, lillac</i>
 <hr size="5" color="black">
-<!--html-->
-<!DOCTYPE html>
-<html>
-<!--LINK TO CSS-->
-	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 <!--HTML Starts-->
 <header>
-	<title>Cats Daily |n＾ω＾|η</title>
     <h1>Cats Daily |n＾ω＾|η</h1>
     </header>
     <body>
     <hr noshade="100" size="5" color="#2f4f4f" width="100%">
     <i>31/7/17</i>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Breaded_Cat.jpg" width="300" align="right" alt="Cat with bread on head">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Breaded_Cat.jpg/1024px-Breaded_Cat.jpg" width="300" align="right">
 <p>
 This cat has a piece of bread on its head, and all of the other cats are sooooo jealous!<br><br>
 We asked this cat what it felt like to be internet famous, and he replied with, and I quote 
@@ -56,4 +50,5 @@ Translation: It took me many weeks of practice, but it it all paid off, purr.
 <hr noshade="100" size="5" color="#2f4f4f" width="100%">
 </body>
 </html>
+
 
