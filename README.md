@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <h2> How do you make CSS Styles work on github????</h2>
+<i>NOTE:Fixed on patch1<i>
 <!--CSS Style-->
 <style>
 h1 {
 	  font-family: courier;
 	  border: 10px solid #2f4f4f;
-      text-align: center;
-      padding: 20px;
+      	text-align: center;
+      	padding: 20px;
 	  }
 body {
 	  background-color: #d3d3d3;
