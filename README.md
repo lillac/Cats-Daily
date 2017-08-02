@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-<h2>Preview of Code.</h2>
+<h2>NOTE:</h2>
 <i>(deleted css from readme(it's not supported here) and fixed img source link (you linked to google images whereas you needed to link to just the image itself.)) Changed this to master branch as it is bug-free, lillac</i>
-<hr size="5" color="black">
+<h1>PREVIEW:</h1>
+<hr>
 <!--HTML Starts-->
 <header>
     <h1>Cats Daily |n＾ω＾|η</h1>
