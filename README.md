@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <h2> How do you make CSS Styles work on github????</h2>
-<i>NOTE:Fixed on patch1<i>
 <!--CSS Style-->
 <style>
 h1 {
