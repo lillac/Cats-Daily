@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h2>NOTE:</h2>
+<h2>NOTE: This is a work in progress (=ↀωↀ=)✧</h2>
 <!--HTML Starts-->
 <header>
     <h1>Cats Daily |n＾ω＾|η</h1>
