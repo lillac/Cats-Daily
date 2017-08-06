@@ -35,14 +35,14 @@ Translation: Our son is an amazing cat, and we love his work.
 </p>
 <hr noshade="100" size="5" color="#2f4f4f" width="100%">
 <i>2/8/17</i>
-<img src="http://kittentoob.com/wp-content/uploads/2013/04/Smiling_Cats_3.jpg" width="300" align="right" alt="Cat Smiling">.
+<img src="http://kittentoob.com/wp-content/uploads/2013/04/Smiling_Cats_3.jpg" width="300" align="right" alt="Cat Smiling">
 <br>
 <p>This cat is smiling and it looks really cute! Everyone who looks at it is instantly filled with joy and happiness!
 <br> <br>
 We asked this cat a very simple question, "How do you smile so well?" and he replied with 
 <q>Meow, meow meow, meow meow purr</q> 
 <br><br>
-Translation: It took me many weeks of practice, but it it all paid off, purr.
+Translation: It took me many weeks of practice, but it all paid off, purr.
 <br><br>
 <i>By Ethan S</i>
 <hr noshade="100" size="5" color="#2f4f4f" width="100%">
