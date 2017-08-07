@@ -1,0 +1,132 @@
+ <!DOCTYPE html>
+<!-- Template by html.am -->
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>2 Column Layout &mdash; Left Menu with Header &amp; Footer</title>
+		<style type="text/css">
+		
+			body {
+				margin:0;
+				padding:0;
+				font-family: Verdana;
+				line-height: 1.5em;
+			}
+			
+			#header {
+				background: #ccc;
+				height: 100px;
+			}
+			
+			#header h1 {
+				margin: 0;
+				padding-top: 15px;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 100%;
+			}
+			
+			#nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -100%;
+				background: #eee;
+			}
+			
+			#footer {
+				clear: left;
+				width: 100%;
+				background: #ccc;
+				text-align: center;
+				padding: 4px 0;
+			}
+	
+			#wrapper {
+				overflow: hidden;
+			}
+						
+			#content {
+				margin-left: 230px; /* Same as 'nav' width */
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0;
+			}
+		
+			p {
+				font-family:Courier New;
+				font-weight: 15px
+			}
+	
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: darkblue;
+				text-decoration: none;
+			}
+			h1 {
+			  font-family: Trebuchet MS;
+			  color: rgb(165, 0, 255)
+			}
+			h1.title {
+			  color: black;
+			}
+		
+		</style>
+	
+	</head>
+	
+	<body>		
+
+		<header id="header">
+			<div class="innertube">
+				<h1 class="title">Just your average website</h1>
+			</div>
+		</header>
+		
+		<div id="wrapper">
+		
+			<main>
+				<div id="content">
+					<div class="innertube">
+						<h1>Welcome to my Website</h1>
+						<p>This is just some random text that every website has, so original I know...</p>
+					</div>
+				</div>
+			</main>
+			
+			<nav id="nav">
+				<div class="innertube">
+					<h3>Some Links</h3>
+					<ul>
+						<li><a href="https://www.youtube.com">Youtube</a></li>
+						<li><a href="https://www.google.com">Google</a></li>
+						<li><a href=https://repl.it/languages/web_project>Basic HTML format</a></li>
+						<li><a href=" https://github.com/AGingerWhoCodes">My GitHub Account</a></li>
+						<li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail Inbox</a></li>
+					</ul>
+					<h3>*Insert other info here*</h3>
+				</div>
+			</nav>
+		
+		</div>
+		
+		<footer id="footer">
+			<div class="innertube">
+				<p>Footer...</p>
+			</div>
+		</footer>
+	
+	</body>
+</html>
